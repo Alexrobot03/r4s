@@ -2,4 +2,5 @@ src-git packages https://github.com/coolsnowwolf/packages
 src-git luci https://github.com/coolsnowwolf/luci
 src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
-src-git liuran001_packages https://github.com/liuran001/openwrt-packages
+src-git mosdns https://github.com/QiuSimons/openwrt-mos.git
+src-git ssrp https://github.com/fw876/helloworld.git
